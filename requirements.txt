@@ -1,0 +1,5 @@
+1.pip install langdetect
+2.pip install tensorflow==2.0
+3.pip install -q tensorflow-text
+4.pip install tensorflow-hub
+5.pip install keras
